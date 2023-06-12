@@ -32,6 +32,7 @@ dependencies:
     sdk: flutter
   google_fonts: ^3.0.1
   dio: ^4.0.0
+  numberpicker:
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
