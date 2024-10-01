@@ -1,5 +1,4 @@
-# untitled
-
+# Smart_Farm
 2022년 선배님들의 캡스톤 경진대회 프로젝트에 대한 카피 프로젝트입니다.
 
 ## Getting Started
